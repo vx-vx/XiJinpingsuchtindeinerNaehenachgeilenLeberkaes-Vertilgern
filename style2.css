@@ -1,0 +1,61 @@
+@font-face {
+    font-family: nos;
+    src: url(PuristaMedium.ttf);
+    font-style: normal;
+    font-weight:600;
+  }
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: nos, sans-serif;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000000;
+    margin-top: 100px;
+}
+
+h1
+{
+    position:absolute;
+    color: aqua;
+    margin-bottom: 40%;
+    font-size: 50;
+}
+
+input
+{
+    margin-top: 100%;
+    position: relative;
+    width: 100%;
+    padding: 10px 10px 10px;
+    background: transparent;
+    border-color: #00ffea;
+    outline: none;
+    color: #00ffea;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+  }
+  
+  :-moz-placeholder {
+    text-align: center;
+  }
+
+#pic2
+{
+    position: absolute;
+    scale: 30%;
+    margin-bottom: 15%;
+}
