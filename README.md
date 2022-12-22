@@ -1,7 +1,7 @@
 # XiJinpingsuchtindeinerNaehenachgeilenLeberkaes-Vertilgern
 ist ein fishing link
 ------------------------------------------------------------
-kekl
+kegl
 
 ![ratirl](https://user-images.githubusercontent.com/58191532/209187722-aa9fd530-36fe-4115-a42e-814db3b2e875.PNG)
 
